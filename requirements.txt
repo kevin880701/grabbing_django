@@ -1,0 +1,12 @@
+django
+gunicorn
+torch
+torchvision
+torchaudio
+opencv-python
+playwright
+requests
+qasync
+Pillow
+beautifulsoup4
+numpy
