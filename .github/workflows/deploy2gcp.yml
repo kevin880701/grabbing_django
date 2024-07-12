@@ -50,7 +50,7 @@ on:
 
 env:
   PROJECT_ID: grounded-access-428301-d3
-  GAR_NAME: grabbing-django-action
+  GAR_NAME: grabbing_django
   GAR_LOCATION: asia-east1
   SERVICE: grabbing-django
   REGION: asia-east1
